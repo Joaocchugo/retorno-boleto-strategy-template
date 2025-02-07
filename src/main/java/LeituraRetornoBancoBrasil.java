@@ -1,10 +1,4 @@
-import java.io.IOException;
-import java.io.UncheckedIOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
 
 public class LeituraRetornoBancoBrasil implements LeituraRetorno {
     @Override

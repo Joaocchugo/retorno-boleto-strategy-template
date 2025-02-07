@@ -1,4 +1,3 @@
-
 import java.time.format.DateTimeFormatter;
 
 public interface LeituraRetorno {
